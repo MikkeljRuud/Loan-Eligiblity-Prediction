@@ -1,2 +1,3 @@
 # Loan-Eligiblity-Prediction
-Five diffrent algorithims/models investiagtiong loan eligibility prediction
+Five different algorithims/models investiagting loan eligibility prediction
+SVM, Logistic Regression, Desicion Tree, KNN, SGD. 
